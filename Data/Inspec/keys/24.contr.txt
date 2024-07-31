@@ -1,0 +1,12 @@
+function approximation
+fuzzy logic
+fuzzy set theory
+fuzzy systems
+modelling
+tuning
+fuzzy modeling
+generalized conjunction operations
+approximation performances
+membership functions
+t-norm
+fuzzy inference systems

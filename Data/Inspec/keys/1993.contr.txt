@@ -1,0 +1,12 @@
+cameras
+correlation methods
+image colour analysis
+interpolation
+optical filters
+color plane interpolation
+alternating projections
+digital cameras
+demosaicing
+color filter arrays
+color artifacts
+inter-channel correlation

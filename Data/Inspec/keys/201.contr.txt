@@ -1,0 +1,6 @@
+computer vision
+motion estimation
+panoramic image mosaics
+global alignment
+local alignment
+resampled image

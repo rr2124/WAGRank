@@ -1,0 +1,21 @@
+adaptive control
+aerospace engines
+asymptotic stability
+fuzzy control
+neurocontrollers
+nonlinear control systems
+radial basis function networks
+time-varying systems
+adaptive neural/fuzzy control
+interpolated nonlinear systems
+input-output feedback linearizable systems
+indirect control
+direct control
+spatially localized models
+Takagi-Sugeno fuzzy systems
+radial basis function neural networks
+online approximators
+unknown dynamics
+tracking error
+jet engine control
+stability analysis

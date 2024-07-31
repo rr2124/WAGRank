@@ -1,0 +1,16 @@
+bifurcation
+biochemistry
+catalysis
+differential equations
+proteins
+reaction kinetics theory
+stability
+enzymatic reactions
+nonlinear dependency
+metabolite concentration
+saturation kinetics
+biochemical system
+ordinary differential equations
+enzyme-mediated reactions
+saddle connection
+stable limit cycles

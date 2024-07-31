@@ -1,0 +1,12 @@
+bond graphs
+fault diagnosis
+genetic algorithms
+search problems
+qualitative bond graph
+fault components
+qualitative equations
+engineering systems
+mechatronic systems
+floating disc
+measured abnormal behavior
+predicted system behavior

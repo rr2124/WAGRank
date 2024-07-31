@@ -1,0 +1,16 @@
+frequency response
+inductors
+losses
+loudspeakers
+network parameters
+parameter estimation
+SPICE
+loudspeaker voice-coil inductance losses
+circuit models
+series resistance
+small-signal operation
+linear regression
+lossy inductance
+loudspeaker driver
+lossless inductor
+core flux to MMF ratio

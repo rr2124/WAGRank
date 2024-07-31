@@ -1,0 +1,9 @@
+learning (artificial intelligence)
+matrix algebra
+minimisation
+quasi-weighted means
+quasi-linear means
+learning
+parametric functions
+measure values
+ratio values

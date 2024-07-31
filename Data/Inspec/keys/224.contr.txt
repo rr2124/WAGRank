@@ -1,0 +1,6 @@
+application program interfaces
+DP management
+Java
+Sun Microsystems
+Java Verification Program
+cross-platform portability

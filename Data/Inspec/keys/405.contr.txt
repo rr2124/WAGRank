@@ -1,0 +1,8 @@
+Horn clauses
+inductive logic programming
+knowledge representation
+learning (artificial intelligence)
+spatial relations learning
+inductive logic programming system
+spatial relations
+function-free Horn-clause descriptions

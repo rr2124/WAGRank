@@ -1,0 +1,14 @@
+controllability
+eigenvalues and eigenfunctions
+elasticity
+Fourier analysis
+Hilbert spaces
+partial differential equations
+Young's modulus
+shells
+minimal time
+thin cups
+Young modulus
+Hilbert space
+Fourier method
+Ingham type theorems

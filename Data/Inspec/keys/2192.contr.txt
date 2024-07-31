@@ -1,0 +1,11 @@
+distributed object management
+Internet
+mobile computing
+software agents
+mobile telecommunications
+device miniaturization
+Internet services
+mobile clients
+mobile agents
+mobility-enabled services
+middleware

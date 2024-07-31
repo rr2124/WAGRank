@@ -1,0 +1,18 @@
+edge detection
+image motion analysis
+motion compensation
+motion estimation
+tracking
+video signal processing
+contour tracking
+nonparameterized object contours
+edge indicator function
+topographical distance
+watershed segmentation
+minimization
+background clutter
+object motion
+motion analysis
+video
+inverted distance transform
+edge map

@@ -1,0 +1,12 @@
+computational complexity
+fuzzy logic
+fuzzy set theory
+pattern recognition
+vectors
+linguistic fuzzy c-means algorithm
+fuzzy numbers
+extension principle
+decomposition theorem
+fuzzy arithmetic
+optimization
+linguistic vectors

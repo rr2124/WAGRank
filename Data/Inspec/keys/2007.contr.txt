@@ -1,0 +1,27 @@
+computer animation
+finite element analysis
+image reconstruction
+image representation
+image segmentation
+kidney
+medical image processing
+software packages
+splines (mathematics)
+high-fidelity finite element model
+trauma research
+National Library of Medicine
+Visible Human Female project
+medical data set
+organ reconstruction
+physically based animation
+software package
+3D polygonal representation
+2D VHF images
+nonuniform rational B-spline surfaces
+NURBS
+polygonal surfaces
+3D hexahedral finite element mesh
+viscoelastic model
+hyperelastic material model
+biological soft tissues
+biomechanical research

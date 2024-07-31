@@ -1,0 +1,10 @@
+computational complexity
+feature extraction
+image registration
+object recognition
+affine invariants
+convex polygons
+algebraically dependent. invariants
+complexity reduction
+convex quadruplet
+feature vector

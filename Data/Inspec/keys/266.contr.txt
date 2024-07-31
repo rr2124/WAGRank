@@ -1,0 +1,26 @@
+fuzzy logic
+fuzzy set theory
+hydrogen bonds
+intermolecular mechanics
+molecular biophysics
+pattern classification
+pattern recognition
+potential energy functions
+pattern recognition strategies
+molecular surfaces
+pattern generation
+model approach
+topographical properties
+electrostatic potential
+local lipophilicity/hydrophilicity
+hydrogen bond density
+segmented surface
+overlapping patches
+molecular properties
+local features
+atomistic resolution
+partial similarities
+molecular complementarity
+patch representation
+lipophilicity
+hydrophilicity

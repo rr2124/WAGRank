@@ -1,0 +1,8 @@
+state feedback
+variable structure systems
+sliding mode control
+switching variable
+parameter variations
+moving switching line
+discrete output feedback
+fast output sampling feedback

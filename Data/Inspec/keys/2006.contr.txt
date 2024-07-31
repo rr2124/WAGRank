@@ -1,0 +1,21 @@
+cancer
+computerised tomography
+data visualisation
+image recognition
+knowledge representation
+lung
+medical expert systems
+medical image processing
+tumours
+lung metastasis detection
+data visualization
+CT images
+computed tomography
+knowledge-based top-down approach
+two-dimensional analysis
+three-dimensional analysis
+computer-aided diagnostic tool
+oncology
+medical imaging
+thorax
+image interpretation

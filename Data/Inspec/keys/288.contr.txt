@@ -1,0 +1,21 @@
+combinatorial mathematics
+computational complexity
+cryptography
+entropy
+Galois fields
+random processes
+sparse matrices
+statistical mechanics
+complexity transitions
+global algorithms
+sparse linear systems
+finite fields
+random linear equations
+finite Galois field
+Gaussian elimination
+phase boundaries
+integer factorization
+message deciphering
+encryption
+RSA cryptosystem
+disordered systems

@@ -1,0 +1,10 @@
+network operating systems
+program compilers
+.NET framework SDK
+runtime code generation
+Regex class
+.NET Common Language Runtime
+assemblies
+types
+System.Reflection.Emit namespace
+Reflection.Emit

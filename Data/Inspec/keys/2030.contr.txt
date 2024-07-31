@@ -1,0 +1,18 @@
+electronic speckle pattern interferometry
+holographic interferometry
+image reconstruction
+image resolution
+integral equations
+light diffraction
+measurement errors
+zero-order diffraction suppression
+reconstructed image
+Laplacian
+detected hologram
+numerical image reconstruction
+discrete Fresnel integral
+image quality
+accuracy
+data processing
+image. processing
+digital holography

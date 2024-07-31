@@ -1,0 +1,17 @@
+data visualisation
+electromagnetic fields
+image processing
+indoor radio
+radiowave propagation
+ray tracing
+telecommunication computing
+tree data structures
+three-dimensional geometrical optics
+3D geometrical optics code
+indoor propagation
+image tree data structure
+image construction
+wall construction
+floor plan
+transmitter
+receiver locations

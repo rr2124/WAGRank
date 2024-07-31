@@ -1,0 +1,13 @@
+control system analysis
+controllability
+discrete systems
+linear systems
+minimisation
+synchronisation
+uncertain systems
+synchronizing experiments
+linear interval systems
+minimal synchronizing sequence construction
+real numbers
+linear inequalities
+generalized control problems

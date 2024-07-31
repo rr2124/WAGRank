@@ -1,0 +1,5 @@
+matrix algebra
+polynomials
+linear algebraic equations
+numerical system
+m-dimensional lambda -matrices

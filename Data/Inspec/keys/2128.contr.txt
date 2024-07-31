@@ -1,0 +1,16 @@
+functional equations
+matrix algebra
+optimal control
+reachability analysis
+set theory
+variational techniques
+determinate systems
+optimal control algorithm
+reachability set approximation
+linearization
+terminal functional
+variational system
+regularization
+sequential refinement method
+local approximation
+relaxation properties

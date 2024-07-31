@@ -1,0 +1,8 @@
+heat conduction
+inverse problems
+partial differential equations
+inverse problem
+hierarchical structure
+parabolic equation
+heat-conduction theory
+unique solvability

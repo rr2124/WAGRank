@@ -1,0 +1,23 @@
+backpropagation
+fuzzy logic
+fuzzy neural nets
+genetic algorithms
+identification
+inference mechanisms
+modelling
+fuzzy polynomial neural networks
+hybrid architectures
+fuzzy modeling
+highly nonlinear rule-based models
+computational intelligence
+fuzzy sets
+group method of data handling
+GMDH
+dynamic topology
+fuzzy inference method
+learning
+standard backpropagation
+membership functions
+learning rates
+momentum coefficients
+genetic optimization

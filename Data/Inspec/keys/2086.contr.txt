@@ -1,0 +1,26 @@
+CAD
+costing
+fuzzy logic
+knowledge based systems
+knowledge representation
+machining
+moulding
+object-oriented programming
+product development
+solid modelling
+design to cost system
+innovative product development
+object-oriented rule-based system
+product cost modelling
+design for automation
+computer aided design solid modelling system
+material selection module
+knowledge-based system
+process optimization module
+design for assembly module
+cost estimation module
+user interface
+injection moulding
+process planning
+feature-by-feature cost estimation report
+concurrent engineering

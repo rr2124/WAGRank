@@ -1,0 +1,10 @@
+discrete systems
+geometry
+linear systems
+polynomials
+stability
+stable polynomials
+Kharitonov theorem
+characteristic polynomial
+linear discrete systems
+multidimensional stability domain

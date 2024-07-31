@@ -1,0 +1,22 @@
+fuzzy logic
+fuzzy set theory
+identification
+modelling
+unsupervised learning
+evolving fuzzy rule-based models
+noniterative update
+rule-base structure
+incremental unsupervised learning
+ranking
+informative potential
+fuzzy rules
+complex processes
+air-conditioning component modeling
+adaptive nonlinear control
+fault detection
+fault diagnostics
+performance analysis
+forecasting
+knowledge extraction
+robotics
+behavior modeling

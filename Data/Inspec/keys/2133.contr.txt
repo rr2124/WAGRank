@@ -1,0 +1,7 @@
+data communication
+multiprocessor interconnection networks
+nonlockability
+multirings
+hypercubes
+data block serial transmission
+multiprocessor computer systems

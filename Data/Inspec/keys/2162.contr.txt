@@ -1,0 +1,9 @@
+Boolean algebra
+formal logic
+Boolean algebras
+prescribed behaviour
+free product
+ZFC
+ultraproducts
+homomorphic images
+cardinal invariants

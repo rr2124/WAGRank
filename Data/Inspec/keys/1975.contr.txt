@@ -1,0 +1,17 @@
+convolution
+edge detection
+image processing
+image segmentation
+image texture
+matrix algebra
+local geometric moments computation
+local features
+texture segmentation
+integral-based features
+neighborhood operation
+image convolution
+overlapping windows
+matrix formulation
+accumulation moments
+computationally efficient algorithm
+image analysis

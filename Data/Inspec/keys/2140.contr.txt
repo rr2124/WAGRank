@@ -1,0 +1,8 @@
+functional equations
+game theory
+matrix algebra
+set theory
+strong active solution
+noncooperative games
+static game problems
+dynamic game problems

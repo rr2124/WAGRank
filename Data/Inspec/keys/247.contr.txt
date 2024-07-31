@@ -1,0 +1,16 @@
+computer networks
+concurrency control
+distributed algorithms
+message passing
+processor scheduling
+resource allocation
+shared memory systems
+congenial talking philosophers problem
+group mutual exclusion
+resource sharing
+shared-memory models
+distributed systems
+process communication
+asynchronous message passing
+critical section
+concurrent distributed algorithm

@@ -1,0 +1,13 @@
+functions
+pulse compression
+radar computing
+radar signal processing
+sparse matrices
+MATLAB code
+ambiguity functions plotting
+radar signals
+sparse matrix operations
+pedagogical tool
+radar courses
+matched-filter response
+Doppler-shifted signal version

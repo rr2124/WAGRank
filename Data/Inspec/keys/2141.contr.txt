@@ -1,0 +1,12 @@
+control system synthesis
+linear systems
+multivariable systems
+observers
+reduced order systems
+transfer function matrices
+system embedding
+reduced observer control
+reduced plant state observer design
+multivariable linear systems
+matrix transfer functions
+state vector

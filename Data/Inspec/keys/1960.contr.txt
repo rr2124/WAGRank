@@ -1,0 +1,17 @@
+cellular automata
+iterative methods
+nonlinear dynamical systems
+self-organised criticality
+transport processes
+transportation
+streaming
+iteration time
+adjacent cell vacancy
+arching signatures
+jamming
+burst-size frequency distribution
+collective slow-down
+disruptive interference
+power-law behavior
+exit dynamics
+confined pedestrians

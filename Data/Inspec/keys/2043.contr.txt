@@ -1,0 +1,22 @@
+computational complexity
+computer architecture
+electrical engineering computing
+electromagnetism
+finite difference time-domain analysis
+iterative methods
+matrix decomposition
+matrix multiplication
+computational electromagnetics codes
+algorithmic complexity
+innermost loops
+CEM codes
+operation count
+computer hardware
+memory chips
+data movement
+matrix-matrix multiplications
+matrix-vector multiplications
+FDTD loops
+LU factorizations
+iterative solvers
+dense matrices

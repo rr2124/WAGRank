@@ -1,0 +1,8 @@
+discrete systems
+optimal control
+reachability analysis
+set theory
+reachability sets
+multistep control processes
+upper estimate
+iterative restriction algorithm

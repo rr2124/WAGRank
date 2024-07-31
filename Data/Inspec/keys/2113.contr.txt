@@ -1,0 +1,8 @@
+convex programming
+differential equations
+set theory
+variable structure systems
+ideal sliding mode
+convex optimization
+continuous convex-programming algorithms
+exact penalty functions

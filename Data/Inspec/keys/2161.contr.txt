@@ -1,0 +1,4 @@
+formal logic
+Beth properties
+interpolation properties
+intuitionistic modal logics

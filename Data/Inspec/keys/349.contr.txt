@@ -1,0 +1,8 @@
+multimedia systems
+quality of service
+self-adjusting quality of service control scheme
+priority clients
+resource partitioning
+simulation
+performance evaluation
+resource reservation

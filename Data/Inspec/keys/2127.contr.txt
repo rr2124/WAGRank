@@ -1,0 +1,8 @@
+differential equations
+matrix algebra
+polynomials
+determinate systems
+polynomial equations
+Bezout matrix identities
+constructive system embedding
+Euclidean algorithm

@@ -1,0 +1,20 @@
+compensation
+control system synthesis
+discrete time systems
+intelligent control
+machine control
+machine testing
+neurocontrollers
+permanent magnet motors
+servomotors
+state estimation
+synchronous motor drives
+uncertain systems
+variable structure systems
+PM synchronous servo motor drive
+variable structure intelligent control
+control design
+linear observer
+neural network
+uncertainty compensation
+control performance

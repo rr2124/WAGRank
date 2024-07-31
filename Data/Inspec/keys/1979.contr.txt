@@ -1,0 +1,28 @@
+adaptive filters
+data compression
+edge detection
+image enhancement
+matched filters
+noise
+probability
+wavelet transforms
+spatial techniques
+scale-space techniques
+spatially adaptive wavelet-based noise filtering algorithm
+a priori knowledge
+geometrical characteristics
+probability factor
+double thresholding technique
+spatial domain filtering
+pixel similarity
+gradient amplitudes
+gradient phases
+edge connectivity
+dynamic range compression
+wavelet correlation
+probabilistic formulation
+final edge probability image
+approximation images
+image noise
+spatially adaptive wavelet noise-filtering algorithm
+noise suppression

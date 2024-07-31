@@ -1,0 +1,20 @@
+dynamic programming
+image matching
+image sequences
+motion estimation
+robot vision
+vectors
+modified dynamic programming
+precise estimates
+motion vector field
+moving objects
+image sequence
+vector-field computation
+matching optimization problem
+multiple dynamic images
+heuristic modification
+2-D optimization problem
+motion vector field estimates
+real movie images
+algorithm
+dynamic motion analysis

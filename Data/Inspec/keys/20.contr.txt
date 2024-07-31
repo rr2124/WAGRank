@@ -1,0 +1,13 @@
+adaptive systems
+linear systems
+robust control
+state feedback
+time-varying systems
+uncertain systems
+robust stabilization
+adaptive stabilization
+linear time-varying systems
+nonlinear uncertainties
+closed-loop systems
+uncertain dynamical systems
+adaptive controller

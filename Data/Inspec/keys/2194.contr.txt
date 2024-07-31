@@ -1,0 +1,11 @@
+database management systems
+information services
+mobile computing
+location-dependent information services
+wireless networks
+pervasive computing
+news
+weather
+traffic reports
+data management
+directory services

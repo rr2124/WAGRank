@@ -1,0 +1,12 @@
+inverse problems
+piezoelectric actuators
+piezoelectric materials
+polynomials
+plane strain theory
+transversely isotropic bodies
+inverse method
+Airy stress function
+loading conditions
+piezoelectric cantilever actuator
+density distribution profile
+piezoelectric material

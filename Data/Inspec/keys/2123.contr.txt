@@ -1,0 +1,10 @@
+controllability
+discrete time systems
+linear systems
+multidimensional systems
+polynomials
+vectors
+hidden convexity
+finite-dimensional stationary linear discrete-time systems
+conical constraints
+control constraint

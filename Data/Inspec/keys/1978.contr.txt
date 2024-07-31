@@ -1,0 +1,14 @@
+data compression
+image coding
+image representation
+transform coding
+image compression
+multilayered representation
+piecewise smooth regions layer
+textures layer
+multilayered decomposition algorithm
+residual part
+sparse representation
+basis functions
+wavelet transforms
+cosine transforms
